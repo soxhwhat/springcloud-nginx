@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4d2eeb-f584-4d9e-9144-d5fd8c85dcaa" name="变更" comment="" />
+    <list default="true" id="4e4d2eeb-f584-4d9e-9144-d5fd8c85dcaa" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-center/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/cp-jar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/db/store.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/oauth-center.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/rest-uaa-reactive-provider-hello.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/sentinel_test1_ref.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/sentinel_testLineUp.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/test-case/http-client.env.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/test-case/uaa-demo.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/test-case/uaa-reactive-demo.rest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/测试环境 shell 发布命令.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soxhwhat/springcloud/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2IY32Z4oi1yRa5pLp1vAGFrs9KN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +39,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/GitRepos/springcloud-nginx"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
